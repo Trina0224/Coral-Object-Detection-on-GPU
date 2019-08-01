@@ -12,6 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # #==========================================================================
+#
+# Modified from 
+# http://storage.googleapis.com/cloud-iot-edge-pretrained-models/docker/obj_det_docker
+#
 
 FROM nvcr.io/nvidia/tensorflow:19.07-py3
 
