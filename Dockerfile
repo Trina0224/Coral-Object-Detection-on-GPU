@@ -17,7 +17,7 @@
 # http://storage.googleapis.com/cloud-iot-edge-pretrained-models/docker/obj_det_docker
 #
 
-FROM nvcr.io/nvidia/tensorflow:19.07-py3
+FROM nvcr.io/nvidia/tensorflow:19.08-py3
 
 # Get the tensorflow models research directory, and move it into tensorflow
 # source folder to match recommendation of installation
